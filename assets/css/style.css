@@ -20,7 +20,7 @@ body {
     position: absolute;
     width: 100%;
     height: max-content;
-    background-color: lightblue;
+    background-color: rgb(64, 166, 201);
   }
 .container {
     color: black;
